@@ -11,4 +11,4 @@
 
 ## 0.1.4
 
-- 引入mobx，将组件通信的state改为mobx
+- 引入mobx，将组件通信的state改为mobx（有缺陷：mobx模式下antd-list不会重新渲染）
